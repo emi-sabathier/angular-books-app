@@ -1,4 +1,5 @@
-# OcAngularBooksApp
+# Angular Books app with firebase
+## Books listing, display book, upload book file, and connection to firebase api
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.4.
 
